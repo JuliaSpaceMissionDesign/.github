@@ -1,1 +1,3 @@
-# Welcome to JuliaSpaceMissionDesign!
+# Welcome to Julia Space Mission Design!
+
+_An open-source packages library for Space Missions Analysis and Design_
