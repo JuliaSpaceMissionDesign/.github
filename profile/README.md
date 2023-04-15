@@ -4,4 +4,8 @@ _An open-source packages library for Space Missions Analysis and Design_
 
 ## Objectives 
 
+*TODO*
+
 ## Design Constraints & Guidelines
+
+*TODO*
