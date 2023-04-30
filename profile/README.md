@@ -7,11 +7,3 @@ Our goal is to provide a **comprehensive**, **flexible** and **efficient** set o
 Our packages cover a wide range of topics related to space mission design, including orbital mechanics, mission analysis, simulation, data visualization, and user interfaces. We strive to provide packages that are well-documented, well-tested, and easy to integrate into existing workflows. Our development process is open and transparent, and we welcome contributions and feedback from the community. 
 
 We invite you to join our community of developers and contributors, and to help us create a powerful and collaborative platform!
-
-## Objectives 
-
-*TODO*
-
-## Design Constraints & Guidelines
-
-*TODO*
