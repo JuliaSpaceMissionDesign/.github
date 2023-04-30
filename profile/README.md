@@ -1,6 +1,6 @@
 # Welcome to Julia Space Mission Design!
 
-_An open-source collaborative platform for Space Missions Analysis and Design._
+_An open-source packages ecosystem for Space Missions Analysis and Design._
 
 Our goal is to provide a **comprehensive**, **flexible** and **efficient** set of open-source packages that can be used by space mission designers, researchers, and enthusiasts around the world. Our packages are designed to be accessible to users of all skill levels, from beginners to experienced professionals. We believe that open-source software can accelerate the pace of innovation and discovery, and we are committed to making our packages freely available to everyone.
 
