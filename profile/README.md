@@ -2,7 +2,11 @@
 
 _An open-source packages library for Space Missions Analysis and Design._
 
-Our mission is to provide a comprehensive, **flexible** and **efficient** set of open-source packages for analyzing and designing space missions. Our packages are designed to be easy to use, highly customizable, and based on the latest research and industry best practices. Whether you're a space mission designer, researcher, or enthusiast, our packages will help you perform orbital mechanics calculations, analyze mission parameters, simulate spacecraft behavior, and visualize mission results. We invite you to join our community of developers and contributors, and to help us create a powerful and collaborative platform!
+Our goal is to provide a **comprehensive**, **flexible** and **efficient** set of open-source packages that can be used by space mission designers, researchers, and enthusiasts around the world. Our packages are designed to be accessible to users of all skill levels, from beginners to experienced professionals. We believe that open-source software can accelerate the pace of innovation and discovery, and we are committed to making our packages freely available to everyone.
+
+Our packages cover a wide range of topics related to space mission design, including orbital mechanics, mission analysis, simulation, data visualization, and user interfaces. We strive to provide packages that are well-documented, well-tested, and easy to integrate into existing workflows. Our development process is open and transparent, and we welcome contributions and feedback from the community. 
+
+We invite you to join our community of developers and contributors, and to help us create a powerful and collaborative platform!
 
 ## Objectives 
 
